@@ -1,4 +1,4 @@
-Veri Kümesi Hikayesi ve Bağlantıları
+**Veri Kümesi Hikayesi ve Bağlantıları
 
 Bu çalışma, çocukluk çağı kanserlerinin en yaygın türü olan Akut Lenfoblastik Lösemi'yi (ALL) ele almaktadır.
 ALL, çocukluk çağı kanserlerinin yaklaşık %25'ini oluşturur ve erken teşhisin çocuklar üzerindeki olumlu etkisi çok önemlidir. 
